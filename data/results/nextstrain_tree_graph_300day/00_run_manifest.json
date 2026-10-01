@@ -1,0 +1,29 @@
+{
+  "run_label": "nextstrain_tree_graph_300day",
+  "generated_utc": "2026-09-04T10:31:46Z",
+  "epi_graph": "/sfs/gpfs/tardis/project/bii_nssac/people/bl4zc/pgcoe_genepi_analytics/data/epi_graph.gpickle",
+  "gen_graph": "/sfs/gpfs/tardis/project/bii_nssac/people/bl4zc/pgcoe_genepi_analytics/data/nextstrain_tree_graph_300day.gpickle",
+  "metadata": "/sfs/gpfs/tardis/project/bii_nssac/people/bl4zc/pgcoe_genepi_analytics/data/nextstrain_tree_sample/run_03_vadelta_2026_03_22_128to428_SURS/metadata_with_index.tsv",
+  "sequencing_window": [
+    169,
+    425
+  ],
+  "max_pairs_per_chain": 500,
+  "seed": 42,
+  "analyses_run": [
+    {
+      "index": 1,
+      "name": "ascertainment_over_time"
+    },
+    {
+      "index": 2,
+      "name": "generation_dating_bias"
+    },
+    {
+      "index": 3,
+      "name": "cross_chain_linkage"
+    }
+  ],
+  "n_chains": 7550,
+  "n_sequenced_tips": 14791
+}

@@ -1,0 +1,4 @@
+group,n_pairs,mean_age_band_gap,same_county_rate
+cross-chain merge,664,1.036144578313253,0.04819277108433735
+within-chain (Section 5 sample),7714,1.0969665543168265,0.24163857920663728
+random pair of sequenced tips (baseline),14793,,0.053833564193674646

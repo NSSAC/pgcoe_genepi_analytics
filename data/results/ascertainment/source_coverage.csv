@@ -1,0 +1,12 @@
+series,geography,start,end,note,covers_window
+sequences (GISAID),US,2020-03-01 00:00:00,2025-10-02 00:00:00,"5,284,121 genomes",True
+sequences (GISAID),VA,2020-03-06 00:00:00,2025-09-24 00:00:00,"103,912 genomes",True
+reported cases,US/state,2020-01-22 00:00:00,2023-05-10 00:00:00,"10,380 state-weeks",True
+case surveillance agg,county,2020-01-01 00:00:00,2022-07-01 00:00:00,"54,621,323 cases",True
+NHSN admissions,US/state,2020-08-08 00:00:00,2024-10-26 00:00:00,442 rows,True
+commercial lab anti-N,50 st + DC + PR + US,2020-07-31 12:00:00,2022-02-16 12:00:00,rounds 1-30,True
+blood donor anti-N 20-21,donor regions,2020-07-01 00:00:00,2021-12-01 00:00:00,71 regions,True
+blood donor 22-23,state + USA,2022-02-15 00:00:00,2023-11-15 00:00:00,7 quarters,True
+CDC variant shares,USA + HHS regions,2021-01-02 00:00:00,2024-11-23 00:00:00,"shares only, no counts",True
+NSSP ED visits (summary),state,2023-10-07 00:00:00,2024-12-28 00:00:00,starts after window,False
+NSSP ED visits (trajectories),state + sub-state,2022-10-01 00:00:00,2024-12-28 00:00:00,starts after window; overlaps cases,False
